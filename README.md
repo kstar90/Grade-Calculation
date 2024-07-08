@@ -1,2 +1,2 @@
-# Grade_Calculation
+# Grade-Calculation
 calculate grade of a student
